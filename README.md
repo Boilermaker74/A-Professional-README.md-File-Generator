@@ -19,7 +19,7 @@ This application is rendered via the command line.  Therefore, it can't be deplo
 Bring up the command line. Navigate to the proper directory. Type "npm install". Once the install is finished, type "node ." The application should begin.
 ## How to Use This Application:
 It is simple.  Answer the fifteen questions that are presented to you. After the README.md file is created, you can paste it into github. 
-![alt-text](./assets/images/Screenshot(52).png) 
+![alt-text](assets/images/screenshot.png) 
 
 ## Licenses
 ![Github license](https://img.shields.io/badge/license-MIT-blue.svg)

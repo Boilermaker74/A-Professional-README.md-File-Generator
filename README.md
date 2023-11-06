@@ -5,6 +5,7 @@ This project is a generator that creates a Professional README.md file based on 
 ## Deployed Application URL
 This application is rendered via the command line.  Therefore, it can't be deployed from a URL.  
 The video of the running application will be provided to demonstrate how this application works. To view the video, click here: [Video](https://drive.google.com/file/d/1saX8SjTBGk0soKa8sXAru-rAr1_u7z-O/view)
+
 The README.md file created in the video was placed in the assets folder.
 ## Table of Contents
 * [Installation](#installation)

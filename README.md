@@ -1,9 +1,9 @@
 # title 
-  by Brad M![Github license](https://img.shields.io/badge/license-MIT-blue.svg)
+  by Brad M.    ![Github license](https://img.shields.io/badge/license-MIT-blue.svg)
 ## Description
 description
 ## Deployed Application URL
-url
+no url
 ## Table of Contents
 * [Installation](#installation)
 * [How to Use This Application](#how-to-use-this-application)
@@ -16,13 +16,13 @@ url
 * [Questions](#questions)
 
 ## Installation
-install
+installation
 ## How to Use This Application:
 use
 ## Licenses
 ![Github license](https://img.shields.io/badge/license-MIT-blue.svg)
 ## Contributors
-contri
+contributors
 ## Testing
 N/A
 ## Features
@@ -33,4 +33,4 @@ features
 ## Dependencies
 depend
 ## Questions
-Please send your questions by email: brad1492@gmail.com or visit [github/boilermaker74](https://github.com/boilermaker74).
+Please send your questions by email:bradm1492@gmail.com or visit [github/boilermaker74](https://github.com/boilermaker74).

@@ -4,7 +4,7 @@
 This project is a generator that creates a Professional README.md file based on a series of fifteen questions that the user answers via a command line application. This project is a quintessential example of the usefulness of computing. Humans are not good at performing repetitive mundane tasks. These tasks are better left to a computer.  With the readme generator, much of the work required for creating a README.md file is handled by the computer. This frees up the coder to pursue more creative tasks. Since this program can be used more than once, it can be a valuable resource for future projects
 ## Deployed Application URL
 This application is rendered via the command line.  Therefore, it can't be deployed from a URL.  
-The video of the running application will be provided to demonstrate how this application works. To view the video, click here: [Video](https://drive.google.com/file/d/1saX8SjTBGk0soKa8sXAru-rAr1_u7z-O/view)
+The video of the running application will be provided to demonstrate how this application works. To view the video, click here: [Video](https://drive.google.com/file/d/1saX8SjTBGk0soKa8sXAru-rAr1_u7z-O/view)/n
 The README.md file created in the video was placed in the assets folder.
 ## Table of Contents
 * [Installation](#installation)

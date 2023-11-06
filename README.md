@@ -32,6 +32,7 @@ Dopecello
 N/A
 ## Features
 A Regex function was included to help to ensure a correctly formatted email is provided. 
+![alt-text](assets/images/screenshot1.png) 
 ## Languages and Technologies Used
 ![Github license](https://img.shields.io/badge/Language-HTML,JavaScript-blue.svg)
 ![Github license](https://img.shields.io/badge/Technology-NodeJs-blue.svg)
